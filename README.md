@@ -3,4 +3,4 @@ Using WebView2 with wry(Tauri) ~just 21mb and using 2mb of mem ram. This is just
 
 Support for CLI mode, custom URL: default: techmeter.com.br
 
---path <URL>
+--path [ URL ]
